@@ -1,5 +1,10 @@
 argolab的寄存网址
 
+夺取科学技术领导权！
+==================
+Catch the Leadership of Science and Technology
+==============================================
+
 argolab是由中山大学逸仙时空BBS站务组系统维护员于2012年左右开启的外围组织。
 
 ![](argolab.png)
